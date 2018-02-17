@@ -1,5 +1,7 @@
 # Easy Bash PATH Editor (EBPE)
 
+Download v0.1 of Easy Bash PATH Editor [here](https://github.com/jsoma/easy-bash-path-editor/releases/download/v0.1/Easy.Bash.PATH.Editor.zip).
+
 ## Add and remove folders from your PATH easily on Mac OS X
 
 Editing your PATH is way more difficult then it should be!
@@ -9,6 +11,10 @@ Easy Bash PATH Editor lets you use a point-and-click interface to add and remove
 ![](screenshots/main.png)
 
 ## Using EBPE
+
+### Where do I get it?
+
+You can download the latest release [from GitHub](https://github.com/jsoma/easy-bash-path-editor/releases/download/v0.1/Easy.Bash.PATH.Editor.zip).
 
 ### How does it work?
 
