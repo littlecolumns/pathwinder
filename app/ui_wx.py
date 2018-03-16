@@ -30,7 +30,7 @@ class MainFrame(wx.Frame):
   def show_about(self, event):
     info = wx.adv.AboutDialogInfo()
     info.Name = "Pathwinder"
-    info.Version = "0.1"
+    info.Version = "0.1.1"
     info.WebSite = (
       "https://www.littlecolumns.com/tools/pathwinder",
       "Pathwinder"

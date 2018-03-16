@@ -1,6 +1,6 @@
 # Pathwinder
 
-Download v0.1 of Pathwinder [here](https://github.com/littlecolumns/pathwinder/releases/download/v0.1/Pathwinder.zip).
+Download v0.1.1 of Pathwinder [here](https://github.com/littlecolumns/pathwinder/releases/download/v0.1.1/Pathwinder.zip).
 
 ## Add and remove folders from your PATH easily on Mac OS X
 
@@ -14,7 +14,7 @@ Pathwinder lets you use a point-and-click interface to add and remove folders/di
 
 ### Where do I get it?
 
-You can download the latest release [from GitHub](https://github.com/littlecolumns/pathwinder/releases/download/v0.1/Pathwinder.zip).
+You can download the latest release [from GitHub](https://github.com/littlecolumns/pathwinder/releases/download/v0.1.1/Pathwinder.zip).
 
 ### How does it work?
 
