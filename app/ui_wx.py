@@ -12,7 +12,7 @@ class MainFrame(wx.Frame):
   #----------------------------------------------------------------------
   def __init__(self):
     """Constructor"""
-    wx.Frame.__init__(self, None, title="Easy Bash PATH Editor", size=(600, 400))
+    wx.Frame.__init__(self, None, title="Pathwinder", size=(600, 400))
     panel = MainPanel(self)
 
     # Setting up the menu.
@@ -29,15 +29,16 @@ class MainFrame(wx.Frame):
 
   def show_about(self, event):
     info = wx.adv.AboutDialogInfo()
-    info.Name = "Easy Bash PATH Editor"
+    info.Name = "Pathwinder"
     info.Version = "0.1"
     info.WebSite = (
-      "https://github.com/jsoma/easy-bash-path-editor",
-      "Easy Bash PATH Editor"
+      "https://www.littlecolumns.com/tools/pathwinder",
+      "Pathwinder"
     )
     info.Developers = ["Jonathan Soma"]
     info.Description = wordwrap(
-        "Edit your PATH pretty easily in OS X.\n"
+        "Edit your PATH pretty easily in OS X.\n",
+        "https://www.littlecolumns.com/\n",
         "Icon by Vectors Market at flaticon.com",
         350, wx.ClientDC(self))
     wx.adv.AboutBox(info)

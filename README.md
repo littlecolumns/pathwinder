@@ -1,20 +1,20 @@
-# Easy Bash PATH Editor (EBPE)
+# Pathwinder
 
-Download v0.1 of Easy Bash PATH Editor [here](https://github.com/jsoma/easy-bash-path-editor/releases/download/v0.1/Easy.Bash.PATH.Editor.zip).
+Download v0.1 of Pathwinder [here](https://github.com/littlecolumns/pathwinder/releases/download/v0.1/Pathwinder.zip).
 
 ## Add and remove folders from your PATH easily on Mac OS X
 
 Editing your PATH is way more difficult then it should be!
 
-Easy Bash PATH Editor lets you use a point-and-click interface to add and remove folders/directories from your PATH on OS X. It automatically edits your `~/.bash_profile` for you, without you needing to meddle around with hiddle files or text editors or anything like that.
+Pathwinder lets you use a point-and-click interface to add and remove folders/directories from your PATH on OS X. It automatically edits your `~/.bash_profile` for you, without you needing to meddle around with hiddle files or text editors or anything like that.
 
 ![](screenshots/main.png)
 
-## Using EBPE
+## Using Pathwinder
 
 ### Where do I get it?
 
-You can download the latest release [from GitHub](https://github.com/jsoma/easy-bash-path-editor/releases/download/v0.1/Easy.Bash.PATH.Editor.zip).
+You can download the latest release [from GitHub](https://github.com/littlecolumns/pathwinder/releases/download/v0.1/Pathwinder.zip).
 
 ### How does it work?
 

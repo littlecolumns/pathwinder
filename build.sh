@@ -2,14 +2,14 @@
 
 pyinstaller \
 	--log-level=DEBUG \
-	--name "Easy Bash PATH Editor" \
+	--name "Pathwinder" \
 	--windowed \
 	--noconfirm \
 	--onefile \
-  --osx-bundle-identifier "com.jonathansoma.ebpe" \
+  --osx-bundle-identifier "com.littlecolumns.pathwinder" \
 	-i icon/browser.icns \
 	app/app.py
 
-codesign -s "$CODESIGN_ID" "dist/Easy Bash PATH Editor.app"
+codesign -s "$CODESIGN_ID" "dist/Pathwinder.app"
 
-cd dist && zip -r "../release/Easy Bash PATH Editor.zip" "Easy Bash PATH Editor.app"
+cd dist && zip -r "../release/Pathwinder.zip" "Pathwinder.app"
